@@ -1,2 +1,2 @@
-# GST-clock
+# GMT-clock
 Displays current GMT time
